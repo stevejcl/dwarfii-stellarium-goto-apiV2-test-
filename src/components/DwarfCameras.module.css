@@ -1,0 +1,14 @@
+.telephoto {
+  width: 100%;
+}
+
+.wideangle {
+  width: 20%;
+  position: absolute;
+  top: 0;
+  border: 1px solid white;
+}
+
+.section {
+  position: relative;
+}
